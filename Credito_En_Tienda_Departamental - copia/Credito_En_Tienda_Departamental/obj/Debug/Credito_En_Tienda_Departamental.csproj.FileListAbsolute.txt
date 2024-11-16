@@ -1,0 +1,30 @@
+C:\Users\Seart\source\repos\Credito_En_Tienda_Departamental\Credito_En_Tienda_Departamental\bin\Debug\Credito_En_Tienda_Departamental.exe.config
+C:\Users\Seart\source\repos\Credito_En_Tienda_Departamental\Credito_En_Tienda_Departamental\bin\Debug\Credito_En_Tienda_Departamental.exe
+C:\Users\Seart\source\repos\Credito_En_Tienda_Departamental\Credito_En_Tienda_Departamental\bin\Debug\Credito_En_Tienda_Departamental.pdb
+C:\Users\Seart\source\repos\Credito_En_Tienda_Departamental\Credito_En_Tienda_Departamental\obj\Debug\Credito_En_Tienda_Departamental.csproj.AssemblyReference.cache
+C:\Users\Seart\source\repos\Credito_En_Tienda_Departamental\Credito_En_Tienda_Departamental\obj\Debug\Credito_En_Tienda_Departamental.Form1.resources
+C:\Users\Seart\source\repos\Credito_En_Tienda_Departamental\Credito_En_Tienda_Departamental\obj\Debug\Credito_En_Tienda_Departamental.Properties.Resources.resources
+C:\Users\Seart\source\repos\Credito_En_Tienda_Departamental\Credito_En_Tienda_Departamental\obj\Debug\Credito_En_Tienda_Departamental.csproj.GenerateResource.cache
+C:\Users\Seart\source\repos\Credito_En_Tienda_Departamental\Credito_En_Tienda_Departamental\obj\Debug\Credito_En_Tienda_Departamental.csproj.CoreCompileInputs.cache
+C:\Users\Seart\source\repos\Credito_En_Tienda_Departamental\Credito_En_Tienda_Departamental\obj\Debug\Credito_En_Tienda_Departamental.exe
+C:\Users\Seart\source\repos\Credito_En_Tienda_Departamental\Credito_En_Tienda_Departamental\obj\Debug\Credito_En_Tienda_Departamental.pdb
+C:\Users\Seart\source\repos\Credito_En_Tienda_Departamental\Credito_En_Tienda_Departamental\obj\Debug\Credito_En_Tienda_Departamental.form2.resources
+C:\Users\Seart\source\repos\Credito_En_Tienda_Departamental\Credito_En_Tienda_Departamental\obj\Debug\Credito_En_Tienda_Departamental.Form4.resources
+C:\Users\Seart\source\repos\Credito_En_Tienda_Departamental\Credito_En_Tienda_Departamental\obj\Debug\Credito_En_Tienda_Departamental.Form5.resources
+C:\Users\Seart\source\repos\Credito_En_Tienda_Departamental\Credito_En_Tienda_Departamental\obj\Debug\Credito_En_Tienda_Departamental.Form3.resources
+C:\Users\Seart\Desktop\Credito_En_Tienda_Departamental - copia\Credito_En_Tienda_Departamental\bin\Debug\Credito_En_Tienda_Departamental.exe.config
+C:\Users\Seart\Desktop\Credito_En_Tienda_Departamental - copia\Credito_En_Tienda_Departamental\bin\Debug\Credito_En_Tienda_Departamental.exe
+C:\Users\Seart\Desktop\Credito_En_Tienda_Departamental - copia\Credito_En_Tienda_Departamental\bin\Debug\Credito_En_Tienda_Departamental.pdb
+C:\Users\Seart\Desktop\Credito_En_Tienda_Departamental - copia\Credito_En_Tienda_Departamental\obj\Debug\Credito_En_Tienda_Departamental.csproj.AssemblyReference.cache
+C:\Users\Seart\Desktop\Credito_En_Tienda_Departamental - copia\Credito_En_Tienda_Departamental\obj\Debug\Credito_En_Tienda_Departamental.Form1.resources
+C:\Users\Seart\Desktop\Credito_En_Tienda_Departamental - copia\Credito_En_Tienda_Departamental\obj\Debug\Credito_En_Tienda_Departamental.form2.resources
+C:\Users\Seart\Desktop\Credito_En_Tienda_Departamental - copia\Credito_En_Tienda_Departamental\obj\Debug\Credito_En_Tienda_Departamental.Form3.resources
+C:\Users\Seart\Desktop\Credito_En_Tienda_Departamental - copia\Credito_En_Tienda_Departamental\obj\Debug\Credito_En_Tienda_Departamental.Form4.resources
+C:\Users\Seart\Desktop\Credito_En_Tienda_Departamental - copia\Credito_En_Tienda_Departamental\obj\Debug\Credito_En_Tienda_Departamental.Form5.resources
+C:\Users\Seart\Desktop\Credito_En_Tienda_Departamental - copia\Credito_En_Tienda_Departamental\obj\Debug\Credito_En_Tienda_Departamental.Properties.Resources.resources
+C:\Users\Seart\Desktop\Credito_En_Tienda_Departamental - copia\Credito_En_Tienda_Departamental\obj\Debug\Credito_En_Tienda_Departamental.csproj.GenerateResource.cache
+C:\Users\Seart\Desktop\Credito_En_Tienda_Departamental - copia\Credito_En_Tienda_Departamental\obj\Debug\Credito_En_Tienda_Departamental.csproj.CoreCompileInputs.cache
+C:\Users\Seart\Desktop\Credito_En_Tienda_Departamental - copia\Credito_En_Tienda_Departamental\obj\Debug\Credito_En_Tienda_Departamental.exe
+C:\Users\Seart\Desktop\Credito_En_Tienda_Departamental - copia\Credito_En_Tienda_Departamental\obj\Debug\Credito_En_Tienda_Departamental.pdb
+C:\Users\Seart\Desktop\Credito_En_Tienda_Departamental - copia\Credito_En_Tienda_Departamental\obj\Debug\Credito_En_Tienda_Departamental.Form6.resources
+C:\Users\Seart\Desktop\Credito_En_Tienda_Departamental - copia\Credito_En_Tienda_Departamental\obj\Debug\Credito_En_Tienda_Departamental.Form7.resources
